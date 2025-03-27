@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+langchain-chroma
+langchain_groq
+
+
+
